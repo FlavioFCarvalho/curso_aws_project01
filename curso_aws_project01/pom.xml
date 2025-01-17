@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.siecola</groupId>
 	<artifactId>curso_aws_project01</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>curso_aws_project01</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
